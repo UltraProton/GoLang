@@ -1,2 +1,2 @@
 # GoLang
-Learning Golang
+Learning Golang using Hitesh Course
